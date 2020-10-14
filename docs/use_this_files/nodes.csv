@@ -1,0 +1,15 @@
+﻿id|comment|modulename|x|y|chart_id|data_id|subtype_id|type_id|parent_id|uid
+0001|Driver of unit-1 with alcoholic influence rams into the unit-2.|.|1103|418|91-2014-002-0118|.|7|1|.|91-2014-002-0118
+583999|Driver of the truck changes lane before the lane he is changing into is free.|.|1103|418|70677|.|7|1|.|F1C84F48-CF95-4CDE-4221-1100E936D38D
+0007|Driver of the truck changes lane before the lane he is changing into is free.|.|1103|418|70678|.|7|1|.|F1C84F48-CF95-4CDE-4221-1100E936D38D
+0005|Driver of unit-1 enters the lane of the unit-2.|.|.|.|91-2014-002-0120|.|.|13|.|.
+0002|The driver is under the influence of alcohol|.|574|420|91-2014-002-0118|.|32|43|0001|91-2014-002-0118
+0003|The driver thinks it is safe to cross the intersection|.|804|417|91-2014-002-0118|.|.|23|0001|91-2014-002-0118
+0004|The driver did not see the truck. |.|245|414|91-2014-002-0118|.|1|17|0001|91-2014-002-0118
+0006|The driver sleeps due to fatigue.|.|.|.|91-2014-002-0120|.|.|31|0005|.
+584000|The driver thinks its is safe to change lane|.|804|417|70677|.|.|24|583999|DC9B3E72-64EE-D76C-5989-11019419E104
+584001|The driver doenÃ¢â‚¬â„¢t see E2 at all even though he is looking in all mirrors before changing lane|.|574|420|70677|.|.|17|584000|0507EB7D-F088-47B5-E92D-1104C2739830
+584002|There is a Ã¢â‚¬Âdead angleÃ¢â‚¬Â to the right of the vehicle where no other vehicles can be seen. |.|245|414|70677|.|.|81|584001|13825D18-BABD-A9D1-3E55-1104CF11E5F2
+0008|The driver thinks its is safe to change lane|.|804|417|70678|.|.|24|0007|DC9B3E72-64EE-D76C-5989-11019419E104
+0009|The driver doenÃ¢â‚¬â„¢t see E2 at all even though he is looking in all mirrors before changing lane|.|574|420|70678|.|.|17|0008|0507EB7D-F088-47B5-E92D-1104C2739830
+0010|There is a Ã¢â‚¬Âdead angleÃ¢â‚¬Â to the right of the vehicle where no other vehicles can be seen. |.|245|414|70678|.|.|81|0009|13825D18-BABD-A9D1-3E55-1104CF11E5F2
